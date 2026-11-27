@@ -38,3 +38,4 @@ Zero-install live demos running directly in the browser. Browse the interactive 
 - **[vrealone](https://github.com/toyoshim-i/vrealone)** — Apache-2.0-licensed SteamVR (OpenVR direct-display HMD) driver for XREAL One glasses.
 - **[agent-man-mg](https://github.com/toyoshim-i/agent-man-mg)** — Motion graphics and VJ craft knowledge packaged as a CLI and MCP server for AI agents.
 - **[mdxnt](https://github.com/toyoshim-i/mdxnt)** — *MDX NT is Not Type N* — Clean-room MIT-licensed MDX-compatible YM2203 (OPN: FM 3ch + SSG 3ch) MML compiler (Rust/Python), portable C99/Z80 sound driver, LSP, and VS Code WebAudio+Wasm player.
+- **[sim559](https://github.com/toyoshim-i/sim559)** — Cycle-accurate WCH CH559 (E8051 1T) microcontroller simulator in Rust with IEEE 1364 VCD waveform tracing, JSON external stimulus playback, and an embedded `agent-man` MCP server.
